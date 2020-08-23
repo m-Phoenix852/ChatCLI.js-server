@@ -1,0 +1,31 @@
+{
+  "name": "chatcli.js-server",
+  "version": "1.0.0",
+  "description": "Your own ChatCLI.js server.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0",
+    "chalk": "4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m-Phoenix852/ChatCLI.js-server.git"
+  },
+  "keywords": [
+    "chat",
+    "express",
+    "cli"
+  ],
+  "author": "Phoenix852",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m-Phoenix852/ChatCLI.js-server/issues"
+  },
+  "homepage": "https://github.com/m-Phoenix852/ChatCLI.js-server#readme"
+}
