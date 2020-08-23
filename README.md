@@ -8,7 +8,6 @@ After starting the server, share your server URL to cool people and let them joi
 # Public ChatCLI.js Server
 We have our own public ChatCLI.js server, the configurations for the server are, ```
 Server URL: wss://chatcli-js.glitch.me/
-Password: rootnottoor
-```
+Password: rootnottoor```
 # Report Woobadoobahooba (Bugs)
 To report bugs open an issue at [issues page](https://github.com/m-Phoenix852/ChatCLI.js-server/issues/) what else.
